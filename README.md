@@ -1,4 +1,4 @@
-# C++ Class Project Gratuity Calculator
+# C++ Character Converter Class [Using Arrays]
 
 This programming challenge as outline in class.
 
